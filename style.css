@@ -64,6 +64,12 @@ body{
        
     
         }
+    @media screen and (max-width: 900px) {
+    .bg-nav{
+        background-color: rgb(21, 20, 51, 0.8);
+        backdrop-filter: 12px;
+    }
+}
     }
    
    
